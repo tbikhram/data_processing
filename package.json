@@ -1,0 +1,19 @@
+{
+  "name": "data_processing",
+  "version": "1.0.0",
+  "description": "form ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbikhram/data_processing.git"
+  },
+  "author": "trevor bikhram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbikhram/data_processing/issues"
+  },
+  "homepage": "https://github.com/tbikhram/data_processing#readme"
+}

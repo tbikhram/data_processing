@@ -1,5 +1,5 @@
 /* body{
-  background-color: black;
+lost  background-color: black;
 }
 article{
   background:lightgrey; flex-grow:2;
@@ -65,7 +65,7 @@ article{
 	display: flex;
 	flex-wrap: wrap;
 	height: 600px;
-  	flex: 4 0 80%;
+  	/*flex: 4 0 80%;*/
 /*   flex-basis:60%; */
   background:lightgrey;
 
@@ -123,6 +123,24 @@ header, footer{
 	background: lightblue;
 	border-radius: 0 10px 10px 0;
 }
+
+
+/*leftside content*/
+#head{
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  
+}
+
+p{
+  color: white;
+  margin-left: 30px;
+  font-size: 20px;
+  font-family: arial;
+  margin-top: -30px;
+}
+/*leftside content*/
 
 
 

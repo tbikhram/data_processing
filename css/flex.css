@@ -1,37 +1,4 @@
-/* body{
-lost  background-color: black;
-}
-article{
-  background:lightgrey; flex-grow:2;
-}
 
-nav{
-  background: blue; order:-1;
-}
-
-
-
-header{
-  background:teal;
-  display:flex;
-}
-
-main{
-  display:flex;
-  flex-wrap:wrap;
-  flex-basis:600px;
-  flex-grow:2;
-  height:800px;
-  color:white;
-  
-}
-
-footer{
-  background:teal;
-  color:white
-  display:flex;
-  
-} */
 
 body{
   display:flex;
@@ -130,6 +97,7 @@ header, footer{
   color: white;
   font-size: 60px;
   text-align: center;
+  font-family: arial;
   
 }
 
